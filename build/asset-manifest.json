@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CAE_digital_certificate/static/css/main.3b66171b.css",
+    "main.js": "/CAE_digital_certificate/static/js/main.5695b174.js",
+    "static/media/NotoSansTC-Regular.otf": "/CAE_digital_certificate/static/media/NotoSansTC-Regular.fe97a59b3a1e0b63d03b.otf",
+    "static/media/background_5.png": "/CAE_digital_certificate/static/media/background_5.d28c66be4e7c4742da6d.png",
+    "static/media/frontgraph.png": "/CAE_digital_certificate/static/media/frontgraph.d97e8f27d213bbc12c1c.png",
+    "static/media/background_4.png": "/CAE_digital_certificate/static/media/background_4.17e0add103749ba388a5.png",
+    "static/media/post.png": "/CAE_digital_certificate/static/media/post.331a55841d78a7395210.png",
+    "static/media/background_1.png": "/CAE_digital_certificate/static/media/background_1.073a3717c8c473b50268.png",
+    "static/media/globe.png": "/CAE_digital_certificate/static/media/globe.defd3208b8b490074fed.png",
+    "static/media/telegram.png": "/CAE_digital_certificate/static/media/telegram.5f84cad9a41e7e637466.png",
+    "static/media/connecticon2.png": "/CAE_digital_certificate/static/media/connecticon2.da2756e41b784f4d3a9d.png",
+    "static/media/line.png": "/CAE_digital_certificate/static/media/line.a48f527b96be0324dd29.png",
+    "static/media/twitter.png": "/CAE_digital_certificate/static/media/twitter.60598133e948f3e36f70.png",
+    "static/media/icon4.png": "/CAE_digital_certificate/static/media/icon4.9fb47d609713f3feb96a.png",
+    "static/media/Bebas-Regular.otf": "/CAE_digital_certificate/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
+    "index.html": "/CAE_digital_certificate/index.html",
+    "main.3b66171b.css.map": "/CAE_digital_certificate/static/css/main.3b66171b.css.map",
+    "main.5695b174.js.map": "/CAE_digital_certificate/static/js/main.5695b174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b66171b.css",
+    "static/js/main.5695b174.js"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "short_name": "CAE digitcert",
+  "name": "NTU CAE Digicert Service",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
