@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.22a698d8.css",
-    "main.js": "/static/js/main.5a7ccf34.js",
+    "main.js": "/static/js/main.683b0803.js",
     "static/media/NotoSansTC-Regular.otf": "/static/media/NotoSansTC-Regular.fe97a59b3a1e0b63d03b.otf",
-    "static/media/background_5.png": "/static/media/background_5.d28c66be4e7c4742da6d.png",
+    "static/media/background_5.png": "/static/media/background_5.eff4009e4c9900e57229.png",
     "static/media/frontgraph.png": "/static/media/frontgraph.d97e8f27d213bbc12c1c.png",
-    "static/media/background_4.png": "/static/media/background_4.17e0add103749ba388a5.png",
+    "static/media/background_4.png": "/static/media/background_4.dc3388e59f058b6715c1.png",
     "static/media/post.png": "/static/media/post.331a55841d78a7395210.png",
     "static/media/background_1.png": "/static/media/background_1.073a3717c8c473b50268.png",
     "static/media/globe.png": "/static/media/globe.defd3208b8b490074fed.png",
@@ -17,10 +17,10 @@
     "static/media/Bebas-Regular.otf": "/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
     "index.html": "/index.html",
     "main.22a698d8.css.map": "/static/css/main.22a698d8.css.map",
-    "main.5a7ccf34.js.map": "/static/js/main.5a7ccf34.js.map"
+    "main.683b0803.js.map": "/static/js/main.683b0803.js.map"
   },
   "entrypoints": [
     "static/css/main.22a698d8.css",
-    "static/js/main.5a7ccf34.js"
+    "static/js/main.683b0803.js"
   ]
 }
