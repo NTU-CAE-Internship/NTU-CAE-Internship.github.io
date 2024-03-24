@@ -41,7 +41,8 @@ const MintPage = ({accountAddr, tempSigner}) => {
     const [year, setYear] = useState(allProgram[allType[pageCount]].year[0]);
 
     // const [contractAddr, setContractAdddr] = useState('0xB48C9d65f9C4451b1B33CEB9229550a3157c8Ea7'); 2022年
-    const [contractAddr, setContractAdddr] = useState('0x69D50F8F6c5Ae7676e7fEd43eDa99dC10ADAe027'); // 2023年
+    // const [contractAddr, setContractAdddr] = useState('0x69D50F8F6c5Ae7676e7fEd43eDa99dC10ADAe027'); // 2023年
+    const [contractAddr, setContractAdddr] = useState('0x945EFaAf12c9A16784Df52b805b06e31950284c0'); // 2023年
 
     const [contractABI, setcontractABI] = useState(abi);
 
