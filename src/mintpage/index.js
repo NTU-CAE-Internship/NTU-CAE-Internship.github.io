@@ -40,9 +40,11 @@ const MintPage = ({accountAddr, tempSigner}) => {
 
     const [year, setYear] = useState(allProgram[allType[pageCount]].year[0]);
 
+    // 可以把上一年的合约地址放在这里
+    // 複製一行寫下一年的
     // const [contractAddr, setContractAdddr] = useState('0xB48C9d65f9C4451b1B33CEB9229550a3157c8Ea7'); 2022年
     // const [contractAddr, setContractAdddr] = useState('0x69D50F8F6c5Ae7676e7fEd43eDa99dC10ADAe027'); // 2023年
-    const [contractAddr, setContractAdddr] = useState('0x6c15B76E1811412a2f921A01250AF589ad81Bcd7'); // test
+    const [contractAddr, setContractAdddr] = useState('0xB48C9d65f9C4451b1B33CEB9229550a3157c8Ea7'); // test
 
     const [contractABI, setcontractABI] = useState(abi);
 

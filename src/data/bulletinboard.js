@@ -8,7 +8,7 @@ export const annouceContent = [
         'text': '2022 CAE暑期實習證書上線囉！',
     },
     {
-        'date': '24/03/25',
+        'date': '24/05/10',
         'text': '測試',
     },
     {
